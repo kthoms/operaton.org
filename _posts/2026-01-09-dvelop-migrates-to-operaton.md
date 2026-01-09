@@ -7,7 +7,7 @@ author: The Operaton Team
 
 We're thrilled to share exciting news from the Operaton community: **d.velop**, a leading provider of document management and digital process solutions, has successfully migrated to Operaton in production!
 
-This milestone represents more than just a technical achievement—it's a powerful validation of Operaton's maturity, stability, and readiness for mission-critical enterprise workloads.
+This milestone was [announced by Andre Thesker on LinkedIn](https://www.linkedin.com/posts/andre-thesker-5519ba222_opensource-operaton-camunda7-activity-7415009252924137473-iuTs), and [further discussed by Karsten Thoms](https://www.linkedin.com/posts/karstenthoms_opensource-operaton-camunda7-activity-7415029548804784128-SkdQ), representing more than just a technical achievement—it's a powerful validation of Operaton's maturity, stability, and readiness for mission-critical enterprise workloads.
 
 ### Why This Matters
 
