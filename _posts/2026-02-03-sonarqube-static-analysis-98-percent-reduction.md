@@ -3,11 +3,11 @@ layout: post
 author: The Operaton Team
 ---
 
-## A Milestone Achievement: 98% Reduction in Static Analysis Issues
+## A Milestone Achievement: 99% Reduction in Static Analysis Issues
 
 We're thrilled to share a significant milestone in the **Operaton Project**—we've successfully reduced static analysis issues reported by **SonarQube by 98%**. This achievement represents not just numbers on a dashboard, but a fundamental transformation in our commitment to code quality and long-term maintainability.
 
-### From 16,000+ Issues to Under 400
+### From 16,000+ Issues to Under 200
 
 When we first analyzed the Operaton codebase with SonarQube, we discovered over **16,000 code quality issues**—a daunting mountain of technical debt inherited from the project's origins. While the overall code quality wasn't poor, the sheer volume of issues created challenges:
 
@@ -16,7 +16,7 @@ When we first analyzed the Operaton codebase with SonarQube, we discovered over 
 - **Made code reviews harder** by mixing critical issues with trivial ones
 - **Slowed development** as developers navigated through inconsistent code patterns
 
-Today, we've brought that number down to **under 400 issues**—a reduction of **98%**. This isn't just about cleaning up warnings; it's about creating a codebase that's ready for the future.
+Today, we've brought that number down to **under 200 issues**—a reduction of **99%**. This isn't just about cleaning up warnings; it's about creating a codebase that's ready for the future.
 
 ### Why This Matters
 
